@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp\\MedicineTrackingApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.Data\\MedicineTrackingApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.Data\\MedicineTrackingApp.Data.csproj",
+        "projectName": "MedicineTrackingApp.Data",
+        "projectPath": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.Data\\MedicineTrackingApp.Data.csproj",
+        "packagesPath": "C:\\Users\\Shweta Mahajan\\.nuget\\packages\\",
+        "outputPath": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shweta Mahajan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.Service\\MedicineTrackingApp.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.Service\\MedicineTrackingApp.Service.csproj",
+        "projectName": "MedicineTrackingApp.Service",
+        "projectPath": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.Service\\MedicineTrackingApp.Service.csproj",
+        "packagesPath": "C:\\Users\\Shweta Mahajan\\.nuget\\packages\\",
+        "outputPath": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shweta Mahajan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.Data\\MedicineTrackingApp.Data.csproj": {
+                "projectPath": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.Data\\MedicineTrackingApp.Data.csproj"
+              },
+              "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.ViewModal\\MedicineTrackingApp.ViewModal.csproj": {
+                "projectPath": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.ViewModal\\MedicineTrackingApp.ViewModal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.ViewModal\\MedicineTrackingApp.ViewModal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.ViewModal\\MedicineTrackingApp.ViewModal.csproj",
+        "projectName": "MedicineTrackingApp.ViewModal",
+        "projectPath": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.ViewModal\\MedicineTrackingApp.ViewModal.csproj",
+        "packagesPath": "C:\\Users\\Shweta Mahajan\\.nuget\\packages\\",
+        "outputPath": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.ViewModal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shweta Mahajan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp\\MedicineTrackingApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp\\MedicineTrackingApp.csproj",
+        "projectName": "MedicineTrackingApp",
+        "projectPath": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp\\MedicineTrackingApp.csproj",
+        "packagesPath": "C:\\Users\\Shweta Mahajan\\.nuget\\packages\\",
+        "outputPath": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shweta Mahajan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.Data\\MedicineTrackingApp.Data.csproj": {
+                "projectPath": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.Data\\MedicineTrackingApp.Data.csproj"
+              },
+              "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.Service\\MedicineTrackingApp.Service.csproj": {
+                "projectPath": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.Service\\MedicineTrackingApp.Service.csproj"
+              },
+              "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.ViewModal\\MedicineTrackingApp.ViewModal.csproj": {
+                "projectPath": "D:\\Sapient\\MedicineTrackingApp\\MedicineTrackingApp.ViewModal\\MedicineTrackingApp.ViewModal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

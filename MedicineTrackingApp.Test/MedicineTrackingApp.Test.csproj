@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq" Version="4.14.6" />
+    <PackageReference Include="xunit" Version="2.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MedicineTrackingApp.Data\MedicineTrackingApp.Data.csproj" />
+    <ProjectReference Include="..\MedicineTrackingApp.Service\MedicineTrackingApp.Service.csproj" />
+  </ItemGroup>
+
+</Project>

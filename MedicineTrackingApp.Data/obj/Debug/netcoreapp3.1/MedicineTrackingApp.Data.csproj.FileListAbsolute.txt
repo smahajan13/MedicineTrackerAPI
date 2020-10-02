@@ -1,0 +1,9 @@
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.Data\bin\Debug\netcoreapp3.1\MedicineTrackingApp.Data.deps.json
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.Data\bin\Debug\netcoreapp3.1\MedicineTrackingApp.Data.dll
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.Data\obj\Debug\netcoreapp3.1\MedicineTrackingApp.Data.AssemblyInfoInputs.cache
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.Data\obj\Debug\netcoreapp3.1\MedicineTrackingApp.Data.AssemblyInfo.cs
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.Data\bin\Debug\netcoreapp3.1\MedicineTrackingApp.Data.pdb
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.Data\obj\Debug\netcoreapp3.1\MedicineTrackingApp.Data.dll
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.Data\obj\Debug\netcoreapp3.1\MedicineTrackingApp.Data.pdb
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.Data\obj\Debug\netcoreapp3.1\MedicineTrackingApp.Data.csproj.CoreCompileInputs.cache
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.Data\obj\Debug\netcoreapp3.1\MedicineTrackingApp.Data.csprojAssemblyReference.cache

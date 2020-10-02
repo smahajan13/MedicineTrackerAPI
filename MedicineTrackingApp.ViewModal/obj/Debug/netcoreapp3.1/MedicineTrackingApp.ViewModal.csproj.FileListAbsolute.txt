@@ -1,0 +1,9 @@
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.ViewModal\bin\Debug\netcoreapp3.1\MedicineTrackingApp.ViewModal.deps.json
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.ViewModal\bin\Debug\netcoreapp3.1\MedicineTrackingApp.ViewModal.dll
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.ViewModal\bin\Debug\netcoreapp3.1\MedicineTrackingApp.ViewModal.pdb
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.ViewModal\obj\Debug\netcoreapp3.1\MedicineTrackingApp.ViewModal.AssemblyInfoInputs.cache
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.ViewModal\obj\Debug\netcoreapp3.1\MedicineTrackingApp.ViewModal.AssemblyInfo.cs
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.ViewModal\obj\Debug\netcoreapp3.1\MedicineTrackingApp.ViewModal.csproj.CoreCompileInputs.cache
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.ViewModal\obj\Debug\netcoreapp3.1\MedicineTrackingApp.ViewModal.dll
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.ViewModal\obj\Debug\netcoreapp3.1\MedicineTrackingApp.ViewModal.pdb
+D:\Sapient\MedicineTrackingApp\MedicineTrackingApp.ViewModal\obj\Debug\netcoreapp3.1\MedicineTrackingApp.ViewModal.csprojAssemblyReference.cache
